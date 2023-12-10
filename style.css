@@ -1,0 +1,39 @@
+body {
+    font-size: 15pt;
+    background-color: burlywood;
+}
+
+h1{
+  text-align: center;
+}
+
+label{
+  font-weight: bold;
+}
+
+input{
+  margin-left: 15px;
+  border: solid #402506 2px;
+  border-radius: 15px;
+  padding: 8px;
+  font-style: 15px;
+}
+
+#submit{
+  font-size: 15px;
+  padding: 5px 35px;
+  background-color: #5A3409;
+  color: white;
+  font-weight: bold;
+  border: solid black 2px;
+  border-radius: 10px;
+ 
+}
+
+#result{
+  text-align: center;
+  color: #0B6A15;
+  font-weight: bold;
+  font-size: 30px;
+  
+}
